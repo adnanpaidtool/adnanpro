@@ -1,13 +1,13 @@
-pkg update
-pkg upgrade 
-pkg install git
-pkg install python
-pip install requests
-pip install mechanize
-pip install bs4
+pkg update<br>
+pkg upgrade <br>
+pkg install git<br>
+pkg install python<br>
+pip install requests<br>
+pip install mechanize<br>
+pip install bs4<br>
 
 pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi
-requests
-git clone https://github.com/adnanpaidtool/adnanpro
-cd adnanpro
+requests<br>
+git clone https://github.com/adnanpaidtool/adnanpro<br>
+cd adnanpro<br>
 python adnan.py
